@@ -14,7 +14,6 @@ comando en powershell
   <li>dlib</li>
   <li>cmake</li>
   <li>opencv-python</li>
-  <li></li>
 </ol>
 
 <h3> para comprobar que se instalo bien ejecutamos en shell, python y ejecutamos el siguiente codigo </h3>
@@ -31,10 +30,11 @@ print(dlib.__version__)
 <h2> problemas con la instalacion dlib </h2>
 
 <ol>
-    <li>Microsoft visual c++ x64: X64	https://aka.ms/vs/17/release/vc_redist.x64.exe </li>
-    <li>https://github.com/z-mahmud22/Dlib_Windows_Python3.x/tree/main   (Descarga segun tu version de Python) </li>
-    <li>https://github.com/ageitgey/face_recognition_models</li>
-    <li>https://cmake.org/download/</li>
+    <li>Microsoft visual c++ x64: https://aka.ms/vs/17/release/vc_redist.x64.exe </li>
+    <li>Microsoft C++ Build Tools:  https://visualstudio.microsoft.com/es/visual-cpp-build-tools/</li>
+    <li>DLIB:  https://github.com/z-mahmud22/Dlib_Windows_Python3.x/tree/main   (Descarga segun tu version de Python) </li>
+    <li>face_recognition_models:  https://github.com/ageitgey/face_recognition_models</li>
+    <li>CMAKE:   https://cmake.org/download/</li>
 </ol>
 
 
