@@ -26,8 +26,7 @@ print(face_recognition)
 import dlib
 print(dlib.__version__)
 
-***NOTA**
-
+<br>
 
 <h2> problemas con la instalacion dlib </h2>
 
@@ -41,7 +40,7 @@ print(dlib.__version__)
 
 
 
-***NOTA** Me dio muchos ERRORES HACERLO CON Face_cognition debido a que no me reconocio la libreria, es decir lo instale e instala correctamente, me da la version y al momento de realizar el ***pip list*** me lo toma y me lo muestra en el listado, 
+**NOTA** Me dio muchos ERRORES HACERLO CON Face_cognition debido a que no me reconocio la libreria, es decir lo instale e instala correctamente, me da la version y al momento de realizar el ***pip list*** me lo toma y me lo muestra en el listado, 
 pero al momento de ejecutar el servidor djagno me pide que instale la libreria desde git *(tal cual lo puse en el listado)* 
 
 es por eso que lo realizare nuevamente en otro repositorio con **OpenCV y FaceNet**
